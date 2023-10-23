@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "La Shebeen",
     "description": "",
-    "home_page_url": "https://github.com/managedcloudza/lashebeen.co.za.git",
-    "feed_url": "https://github.com/managedcloudza/lashebeen.co.za.git/feed.json",
+    "home_page_url": "https://www.lashebeen.co.za",
+    "feed_url": "https://www.lashebeen.co.za/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/managedcloudza/lashebeen.co.za.git/media/website/1698079166988.jpg",
+    "icon": "https://www.lashebeen.co.za/media/website/1698079166988.jpg",
     "author": {
         "name": "Fabien Beller"
     },

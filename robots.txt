@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/managedcloudza/lashebeen.co.za.git/sitemap.xml
+Sitemap: https://www.lashebeen.co.za/sitemap.xml
